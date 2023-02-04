@@ -1,5 +1,5 @@
  
-<h2>ﾟ･✧☁・Opa bão? Eu sou a Aubrey, ta aqui porquê seu merdinha?</h2>
+<h2>ﾟ･✧☁・Opa bão? Eu sou a ! Only ZL 死 , ta aqui porquê seu merdinha?</h2>
 <p>Salve salve pike, que tal aproveitar que você está aqui e chupar minha pika? Digo... Me pagar um babão. Não, péra...</p>
 
 ​
