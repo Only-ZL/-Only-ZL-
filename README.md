@@ -10,7 +10,7 @@
      <img src="https://cdn.discordapp.com/attachments/663875775602098207/1065789767175897118/css.png" height="50"/> 
  ​</p>
 
-<h3>ﾟ･✧🛸・Me chama no discord lá pra mim te roubar. Digo... Pra nois bater um papo Chuernoux!</h3>
+<h3>ﾟ･✧🛸・Me chama no discord lá pra mim te roubar. Digo... Pra nois bater um papo!</h3>
  ​<p align="center" > 
       ! Only ZL 死#0001
  ​    <img src="https://discord.c99.nl/widget/theme-4/788443073885110302.png" /> 
