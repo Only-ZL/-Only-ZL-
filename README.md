@@ -1,16 +1,24 @@
-### Hi there 👋
+ 
+<h2>ﾟ･✧☁・Opa bão? Eu sou a Aubrey, ta aqui porquê seu merdinha?</h2>
+<p>Salve salve pike, que tal aproveitar que você está aqui e chupar minha pika? Digo... Me pagar um babão. Não, péra...</p>
 
-<!--
-**TioSmokee/TioSmokee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+​
+<h3>ﾟ･✧🚀・Atualmente tenho um pouco de domínio apenas em JS, HTML e CSS.</h3>
+ ​ ​<p align="center" >
+     <img src="https://cdn.discordapp.com/attachments/663875775602098207/1065789767612125246/JS.png" height="50"/>
+     <img src="https://cdn.discordapp.com/attachments/663875775602098207/1065789767373037698/Html.png" height="50"/>
+     <img src="https://cdn.discordapp.com/attachments/663875775602098207/1065789767175897118/css.png" height="50"/> 
+ ​</p>
 
-Here are some ideas to get you started:
+<h3>ﾟ･✧🛸・Me chama no discord lá pra mim te roubar. Digo... Pra nois bater um papo Chuernoux!</h3>
+ ​<p align="center" > 
+      ! Only ZL 死#0001
+ ​    <img src="https://discord.c99.nl/widget/theme-4/500383265836892161.png" /> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
+<h2>ﾟ･✧🌌・Informações de merda que ninguém liga: </h2>
+ ​<p align="center" > 
+ ​    <img src="https://github-readme-stats.vercel.app/api?username=TioSmokeeG&show_icons=true&theme=dark" /> 
+ ​    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TioSmokeeG&layout=compact&theme=dark" /> 
+</p>
